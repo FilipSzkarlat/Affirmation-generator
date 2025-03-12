@@ -1,0 +1,16 @@
+{
+    "affirmations": [
+      {"category": "positivity", "text": "I choose to focus on the positive in every situation."},
+      {"category": "positivity", "text": "Every day brings new opportunities and possibilities."},
+      {"category": "happiness", "text": "Happiness is a choice, and I choose to be happy today."},
+      {"category": "happiness", "text": "I create my own happiness with my thoughts and actions."},
+      {"category": "peacefulness", "text": "I am calm, centered, and at peace with myself."},
+      {"category": "peacefulness", "text": "I let go of worry and embrace tranquility."},
+      {"category": "self-worth", "text": "I am worthy of love, success, and happiness."},
+      {"category": "self-worth", "text": "I believe in myself and my abilities."},
+      {"category": "joy", "text": "I find joy in the simple moments of life."},
+      {"category": "joy", "text": "My heart is filled with gratitude and joy."},
+      {"category": "stress relief", "text": "With every breath, I release stress and welcome calmness."},
+      {"category": "stress relief", "text": "I am resilient, strong, and capable of handling anything."}
+    ]
+  }
