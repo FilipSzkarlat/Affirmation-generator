@@ -11,7 +11,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-image: url(bg.jpeg);
+  background-size: cover;
+  background-position: center;
 }
 
 .container {
@@ -26,9 +28,10 @@ body {
 
 #affirmation {
   font-size: 2em;
-  color: #333;
+  color: #120556;
   margin-bottom: 2rem;
   line-height: 1.5;
+  text-shadow: black 0 0 1px;
 }
 
 main {
@@ -40,7 +43,8 @@ main {
 }
 
 button {
-  width: 150px;
+  position: relative;
+  top: 50px;
   background-color: #4caf50;
   color: white;
   border: none;
@@ -48,11 +52,12 @@ button {
   border-radius: 5px;
   cursor: pointer;
   font-size: 1rem;
-  transition: background-color 0.3s ease;
+  transition: 0.5s ease all;
 }
 
 button:hover {
   background-color: #45a049;
+  transform: scale(1.1);
 }
 
 button:active {
