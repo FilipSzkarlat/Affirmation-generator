@@ -70,3 +70,9 @@ button:active {
 #new-affirmation {
   background-color: #3498db;
 }
+
+@media (min-width: 768px) {
+  #affirmation {
+    font-size: 3em;
+  }
+}
