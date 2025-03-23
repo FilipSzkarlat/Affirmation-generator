@@ -1,16 +1,215 @@
 {
-    "affirmations": [
-      {"category": "positivity", "text": "I choose to focus on the positive in every situation."},
-      {"category": "positivity", "text": "Every day brings new opportunities and possibilities."},
-      {"category": "happiness", "text": "Happiness is a choice, and I choose to be happy today."},
-      {"category": "happiness", "text": "I create my own happiness with my thoughts and actions."},
-      {"category": "peacefulness", "text": "I am calm, centered, and at peace with myself."},
-      {"category": "peacefulness", "text": "I let go of worry and embrace tranquility."},
-      {"category": "self-worth", "text": "I am worthy of love, success, and happiness."},
-      {"category": "self-worth", "text": "I believe in myself and my abilities."},
-      {"category": "joy", "text": "I find joy in the simple moments of life."},
-      {"category": "joy", "text": "My heart is filled with gratitude and joy."},
-      {"category": "stress relief", "text": "With every breath, I release stress and welcome calmness."},
-      {"category": "stress relief", "text": "I am resilient, strong, and capable of handling anything."}
-    ]
-  }
+  "affirmations": [
+    {
+      "category": "positivity",
+      "text": "I radiate positivity and joy in all that I do."
+    },
+    {
+      "category": "positivity",
+      "text": "Each day is a new opportunity to shine brightly."
+    },
+    {
+      "category": "positivity",
+      "text": "I choose to focus on the good in every situation."
+    },
+    {
+      "category": "positivity",
+      "text": "Positive thoughts create a positive life."
+    },
+    {
+      "category": "happiness",
+      "text": "Happiness flows to me effortlessly and abundantly."
+    },
+    {
+      "category": "happiness",
+      "text": "I create my own happiness and embrace joy daily."
+    },
+    {
+      "category": "happiness",
+      "text": "I am worthy of happiness and choose to experience it fully."
+    },
+    {
+      "category": "happiness",
+      "text": "My life is filled with joy, love, and laughter."
+    },
+    {
+      "category": "peacefulness",
+      "text": "I am at peace with myself and the world around me."
+    },
+    {
+      "category": "peacefulness",
+      "text": "Calmness and serenity fill my heart and mind."
+    },
+    {
+      "category": "peacefulness",
+      "text": "I release all tension and embrace deep inner peace."
+    },
+    {
+      "category": "peacefulness",
+      "text": "Peace is my natural state of being."
+    },
+    { "category": "self-worth", "text": "I am enough just as I am." },
+    {
+      "category": "self-worth",
+      "text": "I deserve love, success, and happiness."
+    },
+    {
+      "category": "self-worth",
+      "text": "I am worthy of all the good things in life."
+    },
+    { "category": "self-worth", "text": "I respect and honor my true self." },
+    { "category": "joy", "text": "I welcome joy into my life with open arms." },
+    { "category": "joy", "text": "My heart is full of gratitude and joy." },
+    { "category": "joy", "text": "I find joy in the small moments of life." },
+    { "category": "joy", "text": "Joy is my natural state of being." },
+    {
+      "category": "stress relief",
+      "text": "I let go of stress and embrace calmness."
+    },
+    {
+      "category": "stress relief",
+      "text": "I breathe in peace and exhale worry."
+    },
+    {
+      "category": "stress relief",
+      "text": "I am calm, centered, and relaxed in every situation."
+    },
+    {
+      "category": "stress relief",
+      "text": "Stress leaves my body as I focus on the present moment."
+    },
+    {
+      "category": "hope",
+      "text": "I choose hope over fear in every situation."
+    },
+    { "category": "hope", "text": "My future is bright and full of promise." },
+    {
+      "category": "hope",
+      "text": "I trust that everything is unfolding perfectly for me."
+    },
+    { "category": "hope", "text": "Hope and optimism guide my path." },
+    { "category": "peace", "text": "I am a source of peace and harmony." },
+    {
+      "category": "peace",
+      "text": "Peace begins within me and radiates outward."
+    },
+    {
+      "category": "peace",
+      "text": "I create a peaceful space within my heart and mind."
+    },
+    {
+      "category": "peace",
+      "text": "I choose peace over worry and love over fear."
+    },
+    {
+      "category": "nourish",
+      "text": "I nourish my body, mind, and soul with love and kindness."
+    },
+    {
+      "category": "nourish",
+      "text": "I give myself permission to rest and recharge."
+    },
+    { "category": "nourish", "text": "Self-care is a priority, not a luxury." },
+    {
+      "category": "nourish",
+      "text": "I fuel my body with healthy choices and positive energy."
+    },
+    { "category": "ease", "text": "I move through life with ease and grace." },
+    {
+      "category": "ease",
+      "text": "Everything I need comes to me effortlessly."
+    },
+    {
+      "category": "ease",
+      "text": "I allow life to flow naturally and without resistance."
+    },
+    {
+      "category": "ease",
+      "text": "I release all tension and welcome ease into my life."
+    },
+    { "category": "trust", "text": "I trust myself and my inner wisdom." },
+    {
+      "category": "trust",
+      "text": "I trust that everything is working out for my highest good."
+    },
+    {
+      "category": "trust",
+      "text": "The universe supports me in all that I do."
+    },
+    {
+      "category": "trust",
+      "text": "I trust in my journey and embrace the unknown."
+    },
+    {
+      "category": "confidence",
+      "text": "I believe in myself and my abilities."
+    },
+    {
+      "category": "confidence",
+      "text": "I am confident, courageous, and strong."
+    },
+    {
+      "category": "confidence",
+      "text": "I embrace challenges with confidence and grace."
+    },
+    {
+      "category": "confidence",
+      "text": "I am worthy of success and happiness."
+    },
+    {
+      "category": "faith",
+      "text": "I have faith in myself and in the universe."
+    },
+    {
+      "category": "faith",
+      "text": "I trust that life is guiding me in the right direction."
+    },
+    { "category": "faith", "text": "My faith gives me strength and courage." },
+    {
+      "category": "faith",
+      "text": "I surrender to the flow of life with faith and trust."
+    },
+    { "category": "power", "text": "I am powerful, capable, and unstoppable." },
+    {
+      "category": "power",
+      "text": "I own my power and use it to create a positive impact."
+    },
+    {
+      "category": "power",
+      "text": "I stand strong in my truth and authenticity."
+    },
+    {
+      "category": "power",
+      "text": "I have the power to create the life I desire."
+    },
+    {
+      "category": "abundance",
+      "text": "Abundance flows to me easily and effortlessly."
+    },
+    {
+      "category": "abundance",
+      "text": "I am open to receiving unlimited abundance."
+    },
+    {
+      "category": "abundance",
+      "text": "Prosperity and success are drawn to me."
+    },
+    {
+      "category": "abundance",
+      "text": "I attract abundance in all areas of my life."
+    },
+    { "category": "courage", "text": "I am brave, bold, and fearless." },
+    {
+      "category": "courage",
+      "text": "I face challenges with courage and resilience."
+    },
+    {
+      "category": "courage",
+      "text": "Courage flows through me in all that I do."
+    },
+    {
+      "category": "courage",
+      "text": "I embrace new opportunities with courage and confidence."
+    }
+  ]
+}

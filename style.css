@@ -16,16 +16,6 @@ body {
   background-position: center;
 }
 
-.container {
-  width: 90%;
-  max-width: 600px;
-  background-color: white;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-
 #affirmation {
   display: flex;
   text-align: center;

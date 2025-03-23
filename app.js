@@ -8,6 +8,5 @@ async function fetchAffirmation() {
   const data = await res.json();
   const random = Math.floor(Math.random() * data.affirmations.length);
   const randomAffirmation = data.affirmations[random];
-  console.log(randomAffirmation.text);
   affirmationHolder.textContent = randomAffirmation.text;
 }
